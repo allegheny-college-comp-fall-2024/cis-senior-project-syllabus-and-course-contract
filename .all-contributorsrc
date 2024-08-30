@@ -1,0 +1,53 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "dluman",
+      "name": "Douglas Luman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1552764?v=4",
+      "profile": "http://www.douglasjluman.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "howshekilledit",
+      "name": "Morgan Green",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8368413?v=4",
+      "profile": "https://howshekilledit.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "obonhamcarter",
+      "name": "Oliver Bonham-Carter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31265642?v=4",
+      "profile": "https://www.oliverbonhamcarter.com/",
+            "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "emgraber",
+      "name": "Emily Graber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36776355?v=4",
+      "profile": "https://github.com/emgraber",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "syllabus",
+  "projectOwner": "ReadyResearchersTemplates"
+}
