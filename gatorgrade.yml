@@ -1,0 +1,13 @@
+- CODE_OF_CONDUCT.md:
+  - description: Additional contract provisions have either been specified or removed.
+    check: MatchFileRegex
+    options:
+      regex: ">(\\s)?`TODO`"
+      count: 0
+      exact: true
+  - description: Contract has been signed by student and all readers.
+    check: MatchFileRegex
+    options:
+      regex: "`TODO:(\\s?)[S|R|P|D]"
+      count: 0
+      exact: true
